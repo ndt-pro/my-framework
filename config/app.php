@@ -5,10 +5,10 @@ return [
 
     // database
     'database' => [
-        'host'     => 'localhost',
+        'host'     => '127.0.0.1',
         'username' => 'root',
         'password' => '',
-        'db_name'  => 'test'
+        'db_name'  => 'databasename'
     ],
 
 
