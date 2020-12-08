@@ -8,7 +8,7 @@ class HomeController extends Controller {
 
     public function index() {
         return response()->json([
-            'welcome' => 'Xin chào các bạn'
+            'welcome' => 'toàn 1 Xin chào các bạn'
         ]);
     }
 
