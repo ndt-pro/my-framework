@@ -8,7 +8,7 @@ class HomeController extends Controller {
 
     public function index() {
         return response()->json([
-            'welcome' => 'Welcome to NDT API Framework'
+            'welcome' => 'Xin chào các bạn'
         ]);
     }
 
